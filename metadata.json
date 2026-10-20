@@ -1,0 +1,6 @@
+{
+  "name": "활동 내용 및 예상 산출물 | 전날통",
+  "description": "전날통(전미전미~지리:날아라,통합사회!) AI 기반 인터랙티브 학습 제작 활동 내용 및 예상 산출물 웹 열람 페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
